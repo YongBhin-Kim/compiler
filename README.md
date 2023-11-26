@@ -20,5 +20,10 @@ These commands demonstrate the typical workflow for building a compiler using le
 
 Make sure to replace `*.l` and `*.y` with the actual filenames you are using for your lex and yacc specifications.
 
-
+Parsing 방법
+- Top-Down 파싱
+- - 방법: backtracking + reducsion
+  - 문제점: 1. Left recursive grammar can cause an infinite loop.(좌순환 규칙) 2. The speed of parsing is much slower
+  - 개선: Backtracking 없이 deterministic parsing 방법: FIRST, FOLLOW 함수 이용
+- 
 
