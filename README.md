@@ -20,6 +20,8 @@ These commands demonstrate the typical workflow for building a compiler using le
 
 Make sure to replace `*.l` and `*.y` with the actual filenames you are using for your lex and yacc specifications.
 
+## How to Parse?
+
 Parsing 방법
 - Top-Down 파싱
 - - 방법: backtracking + reducsion
