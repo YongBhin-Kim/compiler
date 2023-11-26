@@ -1,0 +1,4 @@
+Hello World!
+This is text file for test wc2.l
+
+20182211 KYB
