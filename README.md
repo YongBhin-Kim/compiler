@@ -44,3 +44,4 @@ Parsing 방법
        
 - Bottom-Up 파싱
   - LR 파싱
+    - 1. Shift-Reduce Parsing
