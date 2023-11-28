@@ -38,3 +38,9 @@ Parsing 방법
           A -> aA'
           A' -> B | C
 ```
+
+  - - LL 파싱
+  - - - 1. Recursive Descent 파싱
+       
+- Bottom-Up 파싱
+  - LR 파싱
